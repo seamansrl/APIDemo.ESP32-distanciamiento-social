@@ -7,10 +7,6 @@ El Proyecto Horus consiste en una API REST que permite de forma simple identific
 
 Esta es una nueva demo de utilización de las APIs de Proyecto Horus consumidas desde una ESP32 las cuales son combinadas con un Shield Arduino de nombre Dfplayer para alertar a las personas muy proximas entre si que se encuentren haciendo fila, o bien frente a una góndola de supermercado que deben respetar el distanciamiento social mientras prevalezca la alerta sanitaria por COVID.
 
-
-Podes verlo andando acá:
-https://youtu.be/12Uxn2-DpYs
-
 # Como cargar el codigo en la ESP32-CAM
 
 Para copiar el codigo a la ESP32-Cam se requiere de un adaptador USB-TTL el cual ira conectado de la siguiente manera:
