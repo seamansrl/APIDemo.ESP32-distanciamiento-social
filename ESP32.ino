@@ -315,7 +315,7 @@ bool Verificar(Detections *ToMesure)
   // VERIFICO SOLO LAS PRIMERAS 30 DETECCIONES
   for (int Index = 0; Index <= 30; Index++)
   {
-    // HAGO UN SICLO ANIDADO EN EL CUAL VERIFICO CADA ELEMENTO DE LA LISTA CON LOS DEMAS
+    // HAGO UN CICLO ANIDADO EN EL CUAL VERIFICO CADA ELEMENTO DE LA LISTA CON LOS DEMAS
     int X1 = ToMesure[Index].X;
     int Y1 = ToMesure[Index].Y;
     int RADIO = ToMesure[Index].RADIO;
